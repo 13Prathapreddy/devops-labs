@@ -1,0 +1,7 @@
+1. Developer commits code to Github
+2. Jenkins triggers build automatically
+3. Build application
+4. Create Docker image
+5. Push Docker image to AWS ECR
+6. Deply to AWS EKS cluster using Helm
+7. Monitoring with Prometheus/Grafana
